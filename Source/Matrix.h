@@ -1,5 +1,5 @@
 // Example code for: Collision Detection with Swept Spheres and Ellipsoids
-// See: http://www.three14.demon.nl/sweptellipsoid/SweptEllipsoid.pdf
+// See: https://github.com/jrouwe/SweptEllipsoid
 //
 // Copyright (C) 2003 Jorrit Rouwe
 //
